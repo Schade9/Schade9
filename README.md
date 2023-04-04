@@ -18,8 +18,8 @@
 <h3>My GitHub Stats &#x1f4c8;</h3>
 
 <a href="https://github.com/Scahde9/Schade9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiima&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schade9&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Schade9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=basiima&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Charles' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Schade9&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Charles' GitHub Stats" />
 </a>
