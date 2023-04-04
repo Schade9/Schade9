@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on improving my frontend skills
 
-- 👯 I’m looking to collaborate on **software engineering and machine learning projects**
+- 👯 I’m looking to collaborate on **Python and Javascript projects**
 
 - 📫 How to reach me **s.charlesderrick9@gmail.com**
 
