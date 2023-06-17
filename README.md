@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ssemakula Charles Derrick</h1>
-<h3 align="center">Full Stack Developer and DEVOPS engineer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on improving my frontend skills
 
