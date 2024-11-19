@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ssemakula Charles Derrick</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on improving my frontend skills
-
-- 👯 I’m looking to collaborate on **Python and Javascript projects**
+- 👯 I’m looking to collaborate on **Python, PHP and Javascript projects**
 
 - 📫 How to reach me **s.charlesderrick9@gmail.com**
 
